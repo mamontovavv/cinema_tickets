@@ -1,3 +1,4 @@
 # cinema_tickets
 
-a project bla bla bla
+a service of cinema tickets' booking
+highload, microservice structured and etc
