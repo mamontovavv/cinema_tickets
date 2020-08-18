@@ -1,7 +1,7 @@
 public class Purchase  {
-    String hall;
-    int row;
-    int place;
+    privtate String hall;
+    private int row;
+    private int place;
 
     public Purchase (String hall, int row, int place) {
         this.hall = hall;
